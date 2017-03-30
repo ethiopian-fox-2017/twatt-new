@@ -1,0 +1,27 @@
+{
+  "name": "twatt-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethiopian-fox-2017/twatt-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethiopian-fox-2017/twatt-new/issues"
+  },
+  "homepage": "https://github.com/ethiopian-fox-2017/twatt-new#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "oauth": "^0.9.15"
+  }
+}
